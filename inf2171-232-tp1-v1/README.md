@@ -1,5 +1,7 @@
 # INF2171-232 TP1
 
+(Note Obtenue: 100/100)
+
 Vous devez réaliser deux fonctions pour manipuler des couleurs RGBA dans le ficheir `color.s`.
 
  * `color_add`: ajoute deux couleurs a + b
